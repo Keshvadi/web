@@ -1,8 +1,8 @@
 ---
 title: Web Introduction
-layout: dafault
-permalink: /web/introduction
 nav_order: 1
+layout: page
+permalink: /web/introduction
 ---
 
 # Full Stack Web Application Architecture
