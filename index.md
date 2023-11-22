@@ -16,7 +16,7 @@ As of the Winter 2024 semester, this textbook is still being actively maintained
 
 ## Source and Changelog
 
-The source for the textbook and a log of all changes is [available on Github](https://github.com/Keshvadi/web_app).
+The source for the textbook and a log of all changes is [available on Github](https://github.com/Keshvadi/web).
 
 ## License
 
