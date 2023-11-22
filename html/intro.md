@@ -1,7 +1,7 @@
 ---
 title: 25. Introduction to Networking
-parent: Network Security
-nav_order: 1
+parent: HTML
+nav_order: 2
 layout: default
 ---
 
