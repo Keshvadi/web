@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Keshvadi/Web-Programming/static/css/main.9d171745.chunk.css",
-    "main.js": "/Keshvadi/Web-Programming/static/js/main.43c1365e.chunk.js",
-    "main.js.map": "/Keshvadi/Web-Programming/static/js/main.43c1365e.chunk.js.map",
-    "runtime~main.js": "/Keshvadi/Web-Programming/static/js/runtime~main.ab5d876f.js",
-    "runtime~main.js.map": "/Keshvadi/Web-Programming/static/js/runtime~main.ab5d876f.js.map",
-    "static/js/2.a2b181a3.chunk.js": "/Keshvadi/Web-Programming/static/js/2.a2b181a3.chunk.js",
-    "static/js/2.a2b181a3.chunk.js.map": "/Keshvadi/Web-Programming/static/js/2.a2b181a3.chunk.js.map",
-    "static/js/3.940f5f6f.chunk.js": "/Keshvadi/Web-Programming/static/js/3.940f5f6f.chunk.js",
-    "static/js/3.940f5f6f.chunk.js.map": "/Keshvadi/Web-Programming/static/js/3.940f5f6f.chunk.js.map",
-    "index.html": "/Keshvadi/Web-Programming/index.html",
-    "precache-manifest.7a85fe4b93db1467a9484fa761e000cd.js": "/Keshvadi/Web-Programming/precache-manifest.7a85fe4b93db1467a9484fa761e000cd.js",
-    "service-worker.js": "/Keshvadi/Web-Programming/service-worker.js",
-    "static/css/main.9d171745.chunk.css.map": "/Keshvadi/Web-Programming/static/css/main.9d171745.chunk.css.map"
+    "main.css": "/Keshvadi/tictactoe/static/css/main.9d171745.chunk.css",
+    "main.js": "/Keshvadi/tictactoe/static/js/main.43c1365e.chunk.js",
+    "main.js.map": "/Keshvadi/tictactoe/static/js/main.43c1365e.chunk.js.map",
+    "runtime~main.js": "/Keshvadi/tictactoe/static/js/runtime~main.e4ed79f9.js",
+    "runtime~main.js.map": "/Keshvadi/tictactoe/static/js/runtime~main.e4ed79f9.js.map",
+    "static/js/2.a2b181a3.chunk.js": "/Keshvadi/tictactoe/static/js/2.a2b181a3.chunk.js",
+    "static/js/2.a2b181a3.chunk.js.map": "/Keshvadi/tictactoe/static/js/2.a2b181a3.chunk.js.map",
+    "static/js/3.940f5f6f.chunk.js": "/Keshvadi/tictactoe/static/js/3.940f5f6f.chunk.js",
+    "static/js/3.940f5f6f.chunk.js.map": "/Keshvadi/tictactoe/static/js/3.940f5f6f.chunk.js.map",
+    "index.html": "/Keshvadi/tictactoe/index.html",
+    "precache-manifest.d791ef0e1a31da32cc104917b3a709cf.js": "/Keshvadi/tictactoe/precache-manifest.d791ef0e1a31da32cc104917b3a709cf.js",
+    "service-worker.js": "/Keshvadi/tictactoe/service-worker.js",
+    "static/css/main.9d171745.chunk.css.map": "/Keshvadi/tictactoe/static/css/main.9d171745.chunk.css.map"
   }
 }
