@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Keshvadi/tictactoe/static/css/main.9d171745.chunk.css",
-    "main.js": "/Keshvadi/tictactoe/static/js/main.43c1365e.chunk.js",
-    "main.js.map": "/Keshvadi/tictactoe/static/js/main.43c1365e.chunk.js.map",
-    "runtime~main.js": "/Keshvadi/tictactoe/static/js/runtime~main.e4ed79f9.js",
-    "runtime~main.js.map": "/Keshvadi/tictactoe/static/js/runtime~main.e4ed79f9.js.map",
-    "static/js/2.a2b181a3.chunk.js": "/Keshvadi/tictactoe/static/js/2.a2b181a3.chunk.js",
-    "static/js/2.a2b181a3.chunk.js.map": "/Keshvadi/tictactoe/static/js/2.a2b181a3.chunk.js.map",
-    "static/js/3.940f5f6f.chunk.js": "/Keshvadi/tictactoe/static/js/3.940f5f6f.chunk.js",
-    "static/js/3.940f5f6f.chunk.js.map": "/Keshvadi/tictactoe/static/js/3.940f5f6f.chunk.js.map",
-    "index.html": "/Keshvadi/tictactoe/index.html",
-    "precache-manifest.d791ef0e1a31da32cc104917b3a709cf.js": "/Keshvadi/tictactoe/precache-manifest.d791ef0e1a31da32cc104917b3a709cf.js",
-    "service-worker.js": "/Keshvadi/tictactoe/service-worker.js",
-    "static/css/main.9d171745.chunk.css.map": "/Keshvadi/tictactoe/static/css/main.9d171745.chunk.css.map"
+    "main.css": "/tictactoe/static/css/main.9d171745.chunk.css",
+    "main.js": "/tictactoe/static/js/main.43c1365e.chunk.js",
+    "main.js.map": "/tictactoe/static/js/main.43c1365e.chunk.js.map",
+    "runtime~main.js": "/tictactoe/static/js/runtime~main.44516421.js",
+    "runtime~main.js.map": "/tictactoe/static/js/runtime~main.44516421.js.map",
+    "static/js/2.a2b181a3.chunk.js": "/tictactoe/static/js/2.a2b181a3.chunk.js",
+    "static/js/2.a2b181a3.chunk.js.map": "/tictactoe/static/js/2.a2b181a3.chunk.js.map",
+    "static/js/3.940f5f6f.chunk.js": "/tictactoe/static/js/3.940f5f6f.chunk.js",
+    "static/js/3.940f5f6f.chunk.js.map": "/tictactoe/static/js/3.940f5f6f.chunk.js.map",
+    "index.html": "/tictactoe/index.html",
+    "precache-manifest.dbf1a5c3419da0968013d0030de599c9.js": "/tictactoe/precache-manifest.dbf1a5c3419da0968013d0030de599c9.js",
+    "service-worker.js": "/tictactoe/service-worker.js",
+    "static/css/main.9d171745.chunk.css.map": "/tictactoe/static/css/main.9d171745.chunk.css.map"
   }
 }
